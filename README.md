@@ -19,7 +19,6 @@ A responsive React.js frontend for the Expense Tracker application with intuitiv
 
 - **React.js** - Frontend framework
 - **React Router** - Navigation and routing
-- **Context API** - State management
 - **Axios** - HTTP client for API calls
 - **CSS3** - Styling with responsive design
 
