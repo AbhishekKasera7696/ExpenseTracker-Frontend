@@ -107,4 +107,6 @@ frontend/
 - CRUD operations for expenses
 - Filtering and sorting
 
+# start project
+- npm start
 
